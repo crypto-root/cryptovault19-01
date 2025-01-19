@@ -1,4 +1,4 @@
-import { Globe, Users, Shield, Twitter, Disc as Discord, Instagram as Telegram, Github } from 'lucide-react';
+import { Globe, Users, Shield  } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import {
@@ -7,7 +7,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Link } from 'react-router-dom';
 
 function Home() {
   return (
