@@ -31,7 +31,9 @@ function App() {
                   Community
                 </Link>
               </div>
-              <Button variant="default">Join Launch</Button>
+              <a href="https://pump.fun/coin/D5rhLTWL3Moh9FoHRbssE4uVuHNYGYfPg5iWZ7z8pump" target="_blank" rel="noopener noreferrer">
+                <Button variant="default">Buy $VAULT</Button>
+              </a>
             </div>
           </div>
         </nav>
