@@ -81,7 +81,7 @@ function Home() {
               <AccordionItem value="item-3">
                 <AccordionTrigger>How can I participate in the CRYPTOVAULT ecosystem?</AccordionTrigger>
                 <AccordionContent>
-                  Join our presale to become an early adopter and participate in governance decisions. CRYPTOVAULT holders can vote on key decisions and benefit from our stability rewards program.
+                  Join our launch to become an early adopter and participate in governance decisions. CRYPTOVAULT holders can vote on key decisions and benefit from our stability rewards program.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>

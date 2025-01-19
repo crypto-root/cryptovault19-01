@@ -15,7 +15,7 @@ function Whitepaper() {
           <Card className="p-8 mb-12">
             <h2 className="text-2xl font-semibold mb-4">CRYPTOVAULT: A Revolutionary Memecoin</h2>
             <p className="text-muted-foreground mb-6">
-              Version 1.0 - January 2025
+              Version 1.31 - January 2025
             </p>
             <Button className="space-x-2">
               <Download className="h-4 w-4" />

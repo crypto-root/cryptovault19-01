@@ -31,7 +31,7 @@ function App() {
                   Community
                 </Link>
               </div>
-              <Button variant="default">Join Presale</Button>
+              <Button variant="default">Join Launch</Button>
             </div>
           </div>
         </nav>
