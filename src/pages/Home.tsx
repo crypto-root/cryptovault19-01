@@ -7,6 +7,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
 function Home() {
   return (
@@ -22,7 +23,11 @@ function Home() {
               </p>
               <div className="flex space-x-4">
                 <Button size="lg">Learn More</Button>
-                <Button size="lg" variant="outline">Whitepaper</Button>
+                <Button size="lg" variant="outline">
+                  <Link to="/whitepaper" className="text-sm font-medium transition-colors hover:text-primary">
+                    Whitepaper
+                  </Link>
+                </Button>
               </div>
             </div>
             <div className="relative">
