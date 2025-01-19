@@ -1,4 +1,4 @@
-import { Coins, Globe, Users, Shield, Twitter, Disc as Discord, Instagram as Telegram, Github } from 'lucide-react';
+import { Globe, Users, Shield, Twitter, Disc as Discord, Instagram as Telegram, Github } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import {
