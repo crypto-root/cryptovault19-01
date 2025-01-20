@@ -32,9 +32,9 @@ function Home() {
                 </Button>
               </div>
             </div>
-            <div className="relative">
-              <div className="aspect-square flex rounded-full bg-gradient-to-tr from-primary/20 to-primary animate-pulse">
-                <img className="aspect-square rounded-full"  src="https://pbs.twimg.com/profile_images/1880351121190920192/Mh55MDbT_400x400.jpg" alt="image"></img>
+            <div className="relative mb-8 flex justify-center">
+              <div className="aspect-square flex w-1/2 rounded-full bg-gradient-to-tr from-primary/20 to-primary animate-pulse">
+                <img className="aspect-square rounded-full w-full" src="https://pbs.twimg.com/profile_images/1880351121190920192/Mh55MDbT_400x400.jpg" alt="image"></img>
               </div>
             </div>
           </div>
