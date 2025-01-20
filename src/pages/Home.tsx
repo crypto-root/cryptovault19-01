@@ -19,7 +19,7 @@ function Home() {
             <div>
               <h1 className="text-5xl font-bold mb-6">Your Digital Fortress Against Inflation</h1>
               <p className="text-xl text-muted-foreground mb-8">
-                CRYPTOVAULT: A revolutionary digital asset designed to preserve wealth in an era of fiat currency uncertainty. Your secure haven in the digital economy.
+                CRYPTOVAULT: A groundbreaking crypto-asset designed to safeguard wealth in a volatile economic landscape. With the power of community-driven innovation and our advanced AI Agent. Join the movement and become part of the community shaping the future of digital finance.
               </p>
               <div className="flex space-x-4">
               <a href="https://pump.fun/coin/D5rhLTWL3Moh9FoHRbssE4uVuHNYGYfPg5iWZ7z8pump" target="_blank" rel="noopener noreferrer">

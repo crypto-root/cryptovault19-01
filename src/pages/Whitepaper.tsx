@@ -3,6 +3,8 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 
 function Whitepaper() {
+  const whitepaperUrl = new URL('./crypto_vault_whitepaper.pdf', import.meta.url).href;
+
   return (
     <div className="min-h-screen pt-32 pb-20">
       <div className="container mx-auto px-4">
@@ -17,10 +19,12 @@ function Whitepaper() {
             <p className="text-muted-foreground mb-6">
               Version 1.31 - January 2025
             </p>
-            <Button className="space-x-2">
-              <Download className="h-4 w-4" />
-              <span>Download Full Whitepaper</span>
-            </Button>
+            <a href={whitepaperUrl} download="CRYPTOVAULT_Whitepaper.pdf" className="inline-flex">
+              <Button className="space-x-2">
+                <Download className="h-4 w-4" />
+                <span>Download Full Whitepaper</span>
+              </Button>
+            </a>
           </Card>
 
           <div className="space-y-12">
