@@ -107,10 +107,12 @@ function Whitepaper() {
               </p>
             </section>
             <div className="text-center">
-              <Button size="lg" className="space-x-2">
-                <Download className="h-4 w-4" />
-                <span>Download Full Whitepaper</span>
-              </Button>
+              <a href={whitepaperUrl} download="CRYPTOVAULT_Whitepaper.pdf" className="inline-flex">
+                <Button size="lg" className="space-x-2">
+                  <Download className="h-4 w-4" />
+                  <span>Download Full Whitepaper</span>
+                </Button>
+              </a>
             </div>
           </div>
         </div>
