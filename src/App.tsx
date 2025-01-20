@@ -27,8 +27,8 @@ function App() {
                 <Link to="/whitepaper" className="text-sm font-medium transition-colors hover:text-primary">
                   Whitepaper
                 </Link>
-                <Link to="/community" className="text-sm font-medium transition-colors hover:text-primary">
-                  Community
+                <Link to="/" className="text-sm font-medium transition-colors hover:text-primary ">
+                  Community in Development!
                 </Link>
               </div>
               <a href="https://pump.fun/coin/D5rhLTWL3Moh9FoHRbssE4uVuHNYGYfPg5iWZ7z8pump" target="_blank" rel="noopener noreferrer">
