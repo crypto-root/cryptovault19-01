@@ -27,11 +27,9 @@ function App() {
                 <Link to="/whitepaper" className="text-sm font-medium transition-colors hover:text-primary">
                   Whitepaper
                 </Link>
-                <a href='https://t.me/+IUW5eNUmTBA1ZDY0' target="_blank" rel="noopener noreferrer">
-                  <Link to="/" className="text-sm font-medium transition-colors hover:text-primary ">
-                    Telegram
-                  </Link>
-                </a>
+                <Link to="/" className="text-sm font-medium transition-colors hover:text-primary ">
+                  Community in Development!
+                </Link>
               </div>
               <a href="https://pump.fun/coin/D5rhLTWL3Moh9FoHRbssE4uVuHNYGYfPg5iWZ7z8pump" target="_blank" rel="noopener noreferrer">
                 <Button variant="default">Buy $VAULT</Button>
